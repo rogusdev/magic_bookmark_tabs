@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg109"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="magic_bookmark_tabs.svg">
+  <defs
+     id="defs103" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="349.70722"
+     inkscape:cy="542.06797"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1346"
+     inkscape:window-height="1041"
+     inkscape:window-x="156"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata106">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11"
+       transform="matrix(3.4207872,0,0,3.3475204,26.227294,107.86674)"
+       style="fill:#000000">
+      <title
+         id="title7">Layer 1</title>
+      <path
+         id="svg_3"
+         d="M 5,44 C 4.744,44 4.488,43.902 4.293,43.707001 3.902,43.316002 3.902,42.683998 4.293,42.293 L 31.163999,15.423001 c 0.391001,-0.391001 1.023001,-0.391001 1.414,0 0.390999,0.391001 0.391003,1.022999 0,1.414 L 5.707,43.707002 C 5.512,43.902002 5.256,44.000001 5,44.000001 Z"
+         style="fill:#000000" />
+      <path
+         id="svg_5"
+         d="m 31.613001,3.658 4.852999,4.853 6.789001,-3.588 -3.59,6.789 4.674,4.674 -6.18,-1.45 -3.393002,7.275001 -0.976997,-7.821 L 25.967,13.412 33.240003,10.016 31.613002,3.658 m 0,-1.7 c -0.288,0 -0.578001,0.073 -0.841002,0.223 -0.664999,0.379 -0.994999,1.157 -0.805,1.899 l 1.279001,4.991 -5.996,2.799 c -0.686001,0.32 -1.077999,1.057 -0.959999,1.805 0.118,0.748 0.716999,1.328 1.467999,1.422 l 6.510002,0.814 0.813,6.509 c 0.094,0.752001 0.674,1.351 1.423,1.469 0.089,0.014 0.176998,0.021 0.264999,0.021 0.652,0 1.257999,-0.375999 1.539997,-0.982 l 2.809002,-6.021999 4.834999,1.135 c 0.130001,0.03 0.260002,0.045 0.389,0.045 0.607002,0 1.18,-0.326 1.485001,-0.873001 C 46.196,16.549 46.081003,15.721 45.544,15.184001 l -3.785999,-3.786 3.003002,-5.68 c 0.348999,-0.659 0.226997,-1.469 -0.301003,-1.997 -0.327,-0.327 -0.761997,-0.498 -1.202999,-0.498 -0.27,0 -0.542999,0.064 -0.793999,0.197 l -5.68,3.002 -3.966,-3.966 c -0.329002,-0.327 -0.764,-0.498 -1.204,-0.498 v 0 z"
+         style="fill:#000000" />
+    </g>
+    <g
+       id="g38"
+       transform="matrix(1.7562394,0,0,2.0009114,-8.4558626,20.108333)">
+      <title
+         id="title34">Layer 1</title>
+      <path
+         id="svg_3-4"
+         fill-rule="evenodd"
+         fill="#000000"
+         d="m 116,16 c -2.211,0 -4,-1.789 -4,-4 0,-2.211 1.789,-4 4,-4 2.211,0 4,-1.789 4,-4 0,-2.211 -1.789,-4 -4,-4 H 20 C 13.375,0 8,5.371 8,12 v 108 c 0,4.418 3.578,8 8,8 h 96 c 4.422,0 8,-3.582 8,-8 V 20 c 0,-2.211 -1.789,-4 -4,-4 z m -4,104 H 16 V 23.266001 C 17.257999,23.711001 18.594,24 20,24 H 40 V 16 H 20 c -2.202999,0 -4,-1.793 -4,-4 0,-2.207 1.797001,-4 4,-4 h 84.734 C 104.289,9.258 104,10.59 104,12 c 0,1.41 0.289,2.742 0.734,4 H 56 v 8 h 56 z"
+         clip-rule="evenodd" />
+      <path
+         id="svg_4"
+         fill="#00ff00"
+         d="M 56,8 V 44.688 L 48,36.686001 40,44.688 V 8 H 56 M 64,0 H 32 V 64 L 48,48 64,64 Z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+{
+    "manifest_version": 2,
+    "name": "Magic Bookmark Tabs!",
+    "version": "1.0",
+    "description": "Tracks your window tabs and recents automatically in bookmarked sessions",
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "magic-bookmark-tabs@rogusdev.com"
+        }
+    },
+
+    "icons": {
+        "16": "icons/magic_bookmark_tabs-16.png",
+        "32": "icons/magic_bookmark_tabs-32.png",
+        "48": "icons/magic_bookmark_tabs-48.png"
+    },
+
+    "permissions": [
+        "bookmarks",
+        "tabs",
+        "storage"
+    ],
+
+    "options_ui": {
+        "page": "options.html"
+    },
+
+    "browser_action": {
+        "browser_style": true,
+        "default_title": "Magic Bookmark Tabs!",
+        "default_popup": "action.html",
+
+        "default_icon": {
+            "16": "icons/magic_bookmark_tabs-16.png",
+            "32": "icons/magic_bookmark_tabs-32.png",
+            "48": "icons/magic_bookmark_tabs-48.png"
+        }
+    },
+
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    }
+}
