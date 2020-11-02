@@ -1,9 +1,10 @@
 
+// FIXME: want to easily share consts for these keys across scripts
 const DEFAULTS = {
     "mbt_folder": "magic_bookmark_tabs"
 }
 
-function onError(error) {
+function onError (error) {
     console.log(`Options error: ${error}`)
 }
 
